@@ -1,3 +1,4 @@
+streamlit
 nltk
 plotly.express
 nltk.sentiment
