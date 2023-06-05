@@ -1,8 +1,10 @@
-streamlit
-pandas
+nltk
+plotly.express
+nltk.sentiment
+nltk.sentiment.vader 
+SentimentIntensityAnalyzer
 wordcloud
-matpoltlib
-pyplot.express
-nltk.sentiments
-seaborn
-textbob
+matplotlib
+pandas 
+seaborn 
+
