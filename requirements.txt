@@ -5,3 +5,4 @@ matpoltlib
 pyplot.express
 nltk.sentiments
 seaborn
+textbob
