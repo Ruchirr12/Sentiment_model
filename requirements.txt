@@ -1,7 +1,6 @@
 streamlit
 nltk
 plotly.express 
-SentimentIntensityAnalyzer
 wordcloud
 matplotlib
 pandas 
