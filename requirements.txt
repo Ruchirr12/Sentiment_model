@@ -1,8 +1,6 @@
 streamlit
 nltk
-plotly.express
-nltk.sentiment
-nltk.sentiment.vader 
+plotly.express 
 SentimentIntensityAnalyzer
 wordcloud
 matplotlib
