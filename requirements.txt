@@ -1,7 +1,6 @@
 streamlit
 pandas
 wordcloud
-textbob
 matpoltlib
 pyplot.express
 nltk.sentiments
