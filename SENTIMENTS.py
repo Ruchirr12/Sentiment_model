@@ -9,10 +9,10 @@ import streamlit as st
 page_bg_img = f"""
 <style>
 [data-testid="stAppViewContainer"]{{
-    background-image: url("https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg");
+    background-image: url("https://www.mrexcel.com/img/excel-tips/2017/11/sentiment-analysis.jpg");
     }}
 [data-testid="stHeader"]{{
-    background-image: url("https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg");
+    background-image: url("https://www.mrexcel.com/img/excel-tips/2017/11/sentiment-analysis.jpg");
     }}
 </style>
 """
